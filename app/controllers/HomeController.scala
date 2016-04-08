@@ -3,7 +3,7 @@ package controllers
 import java.net.InetAddress
 import javax.inject.Inject
 
-import models.Location._
+import models._
 import play.api.libs.json.Json
 import play.api.mvc._
 
